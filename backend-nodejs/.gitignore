@@ -1,0 +1,11 @@
+node_modules/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.orig.*
+*.env
+
+# macOS
+.DS_Store
